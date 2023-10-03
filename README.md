@@ -1,1 +1,1 @@
-# Dia 12 Guessing Game
+# Day 12 Guessing Game
